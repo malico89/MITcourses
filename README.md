@@ -15,4 +15,7 @@ PSET2, Directed Depth-First Search:
 PSET3, Random Walk:
 * ps3.py: problem set I worked on. Includes Room and Robot classes, as well as methods to handle walk, cleaning and random re-orientation. Supporting files used for visualization and simulations of many robots/rooms (not written by me but included in this repository for functionality).
 
+PSET4, Stochastic modeling
+* ps4.py: problem set I worked on. Simulates a bacteria population in a human with and without antibitoic treatment. Many trials are simulated and the average of all trials is plotted with pylab helper function from the problem set. Also includes calculations of 95% confidence intervals using the standard error.
+
 
