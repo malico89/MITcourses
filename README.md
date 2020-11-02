@@ -15,7 +15,10 @@ PSET2, Directed Depth-First Search:
 PSET3, Random Walk:
 * ps3.py: problem set I worked on. Includes Room and Robot classes, as well as methods to handle walk, cleaning and random re-orientation. Supporting files used for visualization and simulations of many robots/rooms (not written by me but included in this repository for functionality).
 
-PSET4, Stochastic modeling
+PSET4, Stochastic modeling:
 * ps4.py: problem set I worked on. Simulates a bacteria population in a human with and without antibitoic treatment. Many trials are simulated and the average of all trials is plotted with pylab helper function from the problem set. Also includes calculations of 95% confidence intervals using the standard error.
 
-
+PSET5, Linear Regression:
+* ps5.py: contains problem set I worked on. Includes helper code to read in a CSV file containing daily tmeperature data for 1961-2015 across 21 cities. Functions implemented for: fitting polynomials to 1D numpy arrays, calculating moving averages, RMSE, plotting data, evaluating models against training and testing data, computing standard deviations across many cities/years to evaluate temperature fluctations. Commented code at the bottom was for eneratin the different graphs for the problem set. 
+* PNG files are output from problem set tests.
+* ps5_test.py: unit tests for the helper function I had to write.
